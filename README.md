@@ -16,6 +16,7 @@ do without bloating every conversation.
 |---|---|
 | [making-messages-stick](skills/making-messages-stick/) | Writing or reviewing a title, headline, announcement, or doc that reads abstract, buries the point, or names the activity instead of the outcome. Diagnoses drafts against the *Made to Stick* (Heath & Heath) SUCCESs framework. |
 | [brag-doc](skills/brag-doc/) | Compiling a weekly brag doc / impact log from a "completed items" Slack feed into a private Confluence page — on Fridays, or before a 1:1, review, or perf check-in. Reframes each completed item as an outcome grouped by goal, and sanitizes confidential people matters. |
+| [kudos](skills/kudos/) | Writing an Engineering Kudos nomination or monthly peer/team recognition — recognising a person or team for a recent win with a short, specific, outcome-led paragraph grounded in verifiable evidence, not vague praise. |
 
 ## Install
 
