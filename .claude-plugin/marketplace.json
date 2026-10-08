@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "reys-skills",
+  "description": "Rey's collection of Claude Code skills.",
+  "owner": {
+    "name": "Reynaldo Arteaga",
+    "url": "https://github.com/Reybolt"
+  },
+  "plugins": [
+    {
+      "name": "reys-skills",
+      "version": "0.1.0",
+      "source": {
+        "source": "github",
+        "repo": "Reybolt/reys-skills"
+      },
+      "description": "A growing collection of Claude Code skills, starting with sharper communication.",
+      "homepage": "https://github.com/Reybolt/reys-skills",
+      "license": "MIT",
+      "keywords": ["skills", "claude-code", "communication", "writing"]
+    }
+  ]
+}

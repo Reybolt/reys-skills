@@ -1,0 +1,12 @@
+{
+  "name": "reys-skills",
+  "version": "0.1.0",
+  "description": "A collection of Claude Code skills by Rey.",
+  "author": {
+    "name": "Reynaldo Arteaga",
+    "url": "https://github.com/Reybolt"
+  },
+  "homepage": "https://github.com/Reybolt/reys-skills",
+  "license": "MIT",
+  "keywords": ["skills", "claude-code"]
+}
