@@ -23,13 +23,13 @@ Don't force it on internal shorthand between people who share full context.
 
 ## Workflow
 
-Run these steps **in order** when handed a draft to improve. The scorecard comes *before* any rewrite: diagnose first, let the writer choose what matters, then rewrite only what they picked. Don't jump to a polished version — naming the reader and scoring first are what make the rewrite land on the right idea.
+Run these steps **in order** when handed a draft to improve. The scorecard comes *before* any rewrite, and the rewrites come as a set the user steers: score, offer three candidates, take the user's direction, re-score, repeat. Don't jump straight to a polished version — naming the reader and scoring first are what make the rewrites land on the right idea.
 
 1. **Gather the message.** Collect three things: the draft itself, the *one* reader who will scan it (a named VP, the whole eng org, a customer — ask if unclear; don't settle for "leadership"), and the single idea that reader must walk away with (the core). If you have three candidate takeaways, force the pick — say three things and you say nothing. If the draft truly serves two different readers, that's usually two messages.
-2. **Score it — the scorecard.** Grade all six SUCCESs principles against the named reader, using the scorecard format below. Every principle gets a score, a verdict, and a one-line reason. Mark a principle **N/A** when a message of this length or type doesn't owe it — a one-line status update isn't failing by carrying no Story. This is a diagnosis that *drives* the rewrite, not a justification written afterward.
-3. **Recommend priorities.** From the scorecard, name the 1–3 principles that would most lift *this* message, each with its lever (see levers below). Simple and Concrete first — they fix most drafts. Say plainly: a short message rarely needs all six, so the goal is to pick what's load-bearing, not to chase a perfect score.
-4. **Writer picks.** STOP and let the writer choose which principles to address. Present the recommendation, then wait — don't auto-rewrite everything. The scorecard informs; the writer decides what's worth the effort for this message.
-5. **Produce scoped rewrites.** For the principles the writer picked, produce 2–3 rewrites — a real choice, varying the angle between candidates. Each leads with the outcome for the reader, not the activity (see Core pattern), and pulls only the chosen levers. Then re-grade the picked principles, apply the reader test against the named person (if they read only the first line, is the impact clear?), show **before → after**, and flag any placeholder the writer must fill with a real figure.
+2. **Score it — the scorecard.** Grade all six SUCCESs principles against the named reader, using the scorecard format below. Every principle gets a score, a verdict, and a one-line reason. Mark a principle **N/A** when a message of this length or type doesn't owe it — a one-line status update isn't failing by carrying no Story. This is a diagnosis that *drives* the rewrites, not a justification written afterward.
+3. **Offer 3 rewrite candidates.** Always produce three — a real choice, each pulling a different lever or angle so the user sees distinct directions (e.g. deadline-led vs stake-led vs hook-led, not three near-copies). Draw them from the principles the scorecard marked weakest (Simple + Concrete first); each leads with the outcome for the reader, not the activity (see Core pattern), and flags any placeholder the writer must fill with a real figure. Never invent a number, example, or quote to round a candidate out.
+4. **User reviews.** The user picks a candidate or points to the direction they want ("B, but keep A's headline"; "push the urgency harder"). Wait for that steer — don't assume which way to go.
+5. **Re-score and repeat.** Take the chosen or steered version, re-grade the affected principles on the scorecard, and offer a fresh set of three candidates in that direction. Loop until the user is satisfied, then deliver the final with **before → after**, the reader test applied against the named person (if they read only the first line, is the impact clear?), and any remaining placeholder flags.
 
 ### The levers
 
@@ -56,7 +56,7 @@ Grade all six principles against the named reader. Each gets a **score /5**, a *
 | **Emotional** | Why should they *care*? | _/5 | | |
 | **Stories** | Is there a concrete example carrying it? | _/5 | | |
 
-Most weak comms fall down on **Simple** and **Concrete** — weight those two first when recommending priorities, they fix most drafts.
+Most weak comms fall down on **Simple** and **Concrete** — draw the rewrite candidates from those two first, they fix most drafts.
 
 ## The reader test
 
@@ -85,5 +85,5 @@ The single highest-leverage swap. Delete the abstraction naming your process; le
 - **Inventing evidence.** Same rule as numbers, extended to examples, quotes, and anecdotes — especially when citing a source. Use only what you can verify; flag anything unsure so the author confirms before sending.
 - **Closing the gap you just opened.** Explaining the answer in the same breath as the hook. A curiosity gap only pulls while it's unresolved — name the payoff and the reason to engage evaporates.
 - **Grading against yourself.** It's clear to you because you have the context. Grade against the reader who doesn't.
-- **Chasing all six.** Not every message owes every principle — a short status line or a reminder legitimately marks several N/A. Pick what's load-bearing (Simple + Concrete first); don't treat the scorecard total as a number to maximise.
-- **Rewriting before scoring.** Jumping straight to a polished version skips naming the reader, the core, and the scorecard — you'll polish the wrong idea, then justify it after. Run the workflow steps in order, and let the writer pick priorities before you rewrite.
+- **Chasing all six.** Not every message owes every principle — a short status line or a reminder legitimately marks several N/A. Draw candidates from what's load-bearing (Simple + Concrete first); don't treat the scorecard total as a number to maximise.
+- **Rewriting before scoring.** Jumping straight to a polished version skips naming the reader, the core, and the scorecard — you'll polish the wrong idea, then justify it after. Run the workflow steps in order: score first, then offer the three candidates and let the user steer.
